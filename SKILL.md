@@ -1,10 +1,9 @@
 ---
 name: correlation-method-analysis
-description: Connect existential life questions to their theological depth, revealing
-  how human situations imply questions that correlate with symbolic answers.
+description: Connect existential life questions to their theological depth, revealing how human situations imply questions that correlate with symbolic answers.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - correlation-method-analysis
